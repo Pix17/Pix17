@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently Web Developer Student in Develhop academy
+- 🌱 I’m currently Web Developer Student at Develhop academy and also a computer engineering student at Uninettuno university
 
 - 📫 How to reach me: giuseppecapicotto7@gmail.com
 
